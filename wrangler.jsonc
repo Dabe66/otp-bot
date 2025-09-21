@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "otp-bot",
+	"name": "telegrambot",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-27",
 	"observability": {
